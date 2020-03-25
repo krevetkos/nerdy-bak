@@ -1,0 +1,7 @@
+{
+    "port": "8080",
+    "db": "mongodb+srv://calendar-app:kskfPC53DxvFfhAU@tm-mr0-6nwvd.mongodb.net/paper-bird?retryWrites=true&w=majority",
+    "salt": "$2a$16$i2y/JiQW1FaFYqfVIGNjfO",
+    "access": "verySecretKey",
+    "refresh": "verySecretRefreshTokenKey"
+}
